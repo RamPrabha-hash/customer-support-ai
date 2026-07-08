@@ -11,7 +11,8 @@ st.set_page_config(
     layout="wide"
 )
 
-API_URL = "http://127.0.0.1:8000/chat"
+# Render Backend URL
+API_URL = "https://customer-support-ai-qidq.onrender.com/chat"
 
 # ----------------------------
 # CUSTOM CSS
@@ -135,7 +136,7 @@ if prompt:
 
     with st.chat_message("assistant"):
 
-        with st.spinner("Thinking..."):
+        with st.spinner("🤖 Thinking..."):
 
             try:
 
@@ -153,11 +154,11 @@ if prompt:
 
                 else:
 
-                    answer = "❌ Backend Error\n\n" + response.text
+                    answer = f"❌ Backend Error ({response.status_code})\n\n{response.text}"
 
             except Exception as e:
 
-                answer = f"Connection Error:\n\n{e}"
+                answer = f"❌ Connection Error\n\n{str(e)}"
 
             st.markdown(answer)
 
