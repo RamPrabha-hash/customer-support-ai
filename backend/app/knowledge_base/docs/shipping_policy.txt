@@ -1,0 +1,19 @@
+Shipping Policy
+
+Standard Delivery:
+3-5 business days
+
+Express Delivery:
+1-2 business days
+
+Shipping Charges:
+Free shipping on orders above ₹999.
+
+Orders below ₹999:
+Shipping Charge ₹99
+
+Delivery Delay:
+Customers will be notified through SMS and Email.
+
+Incorrect Address:
+Customers should contact support immediately before shipment.

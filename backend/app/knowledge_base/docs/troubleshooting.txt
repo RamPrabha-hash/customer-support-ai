@@ -1,0 +1,29 @@
+Troubleshooting Guide
+
+Laptop does not start
+1. Check charger connection.
+2. Verify power outlet.
+3. Hold power button for 15 seconds.
+4. Charge for 30 minutes.
+5. Contact support if issue persists.
+
+Laptop overheating
+1. Close unused applications.
+2. Clean air vents.
+3. Place laptop on a flat surface.
+
+WiFi not connecting
+1. Restart router.
+2. Restart laptop.
+3. Forget and reconnect network.
+4. Update network drivers.
+
+Bluetooth not working
+1. Enable Bluetooth.
+2. Restart Bluetooth service.
+3. Update Bluetooth drivers.
+
+Battery draining fast
+1. Reduce screen brightness.
+2. Close background applications.
+3. Enable battery saver mode.

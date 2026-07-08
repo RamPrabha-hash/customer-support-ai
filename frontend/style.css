@@ -1,0 +1,21 @@
+.stApp{
+    background:#F4F7FC;
+}
+
+.main-title{
+    font-size:38px;
+    font-weight:bold;
+    color:#1F4E79;
+}
+
+.bot{
+    background:#E3F2FD;
+    padding:12px;
+    border-radius:10px;
+}
+
+.user{
+    background:#DCF8C6;
+    padding:12px;
+    border-radius:10px;
+}
