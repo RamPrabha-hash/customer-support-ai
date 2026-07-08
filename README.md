@@ -2,6 +2,15 @@
 
 An AI-powered customer support system built using **Agentic AI, Retrieval Augmented Generation (RAG), and Large Language Models (LLMs)**. The system can understand customer queries, retrieve relevant information from a knowledge base, maintain conversation context, and automatically escalate complex issues by creating support tickets.
 
+### 🚀 Live Demo
+https://customer-support-ai-fydqeto5ualmcnhxhbsbxx.streamlit.app
+
+### ⚙️ Backend API
+https://customer-support-ai-qidq.onrender.com
+
+### 💻 Source Code
+https://github.com/RamPrabha-hash/customer-support-ai
+
 ---
 
 # 📌 Project Overview
